@@ -1,6 +1,6 @@
 import React from "react";
 import { Bell, Settings, MessageSquare, Mic, BookOpen, BellRing } from "lucide-react";
-import { createActor } from "../../declarations/backend"; // Sesuaikan dengan canister ID Anda
+import { createActor } from "../../declarations/backend"; // Sesuaikan dengan canister ID 
 import { useEffect, useState } from "react";
 
 export default function Home() {
