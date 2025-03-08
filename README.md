@@ -1,6 +1,3 @@
-# Hepsy-Motoko
-Backend untuk aplikasi Hepsy: mood tracking, konsultasi psikologi, event komunitas, posting anonim, dan ChatBot berbasis pilihan, ditulis dengan bahasa Motoko
-
 # Hepsy Backend
 
 Hepsy adalah backend untuk aplikasi pelacakan mood dan konsultasi psikologi yang ditulis dalam bahasa [Motoko](https://github.com/dfinity/motoko). Proyek ini menyediakan berbagai fitur untuk mendukung kesehatan mental melalui pencatatan mood, posting anonim, event komunitas, konten interaktif, dan dukungan ChatBot berbasis pilihan.
